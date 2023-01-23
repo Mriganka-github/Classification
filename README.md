@@ -1,6 +1,6 @@
 # Classification
 
-This is the solution for the project : classification. In this notebook:
+In this notebook:
 
 1. We will first explore the dataset provided
 
